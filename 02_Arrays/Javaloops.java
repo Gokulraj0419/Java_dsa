@@ -10,6 +10,7 @@ Explanation:
 Natural numbers less than 1 are only 1.
 So the sum of even number = 0.
 and the sum of odd number = 1.
+
 Example 2:
 
 Input:
