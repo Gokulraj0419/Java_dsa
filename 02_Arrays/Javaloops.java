@@ -25,6 +25,7 @@ and the sum of odd number = 1 + 3 + 5 = 9.
 
 */
 
+
 class Solution {
 	static ArrayList<Integer> getSum(int N) {
 		// code here
