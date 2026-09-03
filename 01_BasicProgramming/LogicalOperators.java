@@ -9,6 +9,7 @@ a || b
 
 */
 
+
 class Solution {
     public String booleanOperations(boolean a, boolean b) {
         // Code here
